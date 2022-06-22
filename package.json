@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devvishnu02/TestingComponents"
+    "url": "https://github.com/Prithivgopi/Component_libraries.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
