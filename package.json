@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Prithivgopi/Component_libraries.git"
+    "url": "https://github.com/Prithivgopi/Component_libraries"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
