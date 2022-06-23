@@ -1,1 +1,1 @@
-export { HelloWorldLibrary } from './libraries/helloWorld/HelloWorldLibrary';
+export { testLib } from './libraries/helloWorld/TestLibrary/index';
